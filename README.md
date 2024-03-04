@@ -1,0 +1,2 @@
+# Inventory
+ Daily Inventory Report
